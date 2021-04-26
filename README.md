@@ -4,7 +4,7 @@
 <h3 class="code-line" data-line-start=4 data-line-end=5 ><a id="Hello__My_name_is_JeanFranois_Vandermousen_4"></a>Hello ! My name is Jean-François Vandermousen.</h3>
 <p class="has-line-data" data-line-start="5" data-line-end="8">I have been working in Brussels for height years as a freelance graphic designer.<br>
 After graduating in marketing and working as a studio photographer, I turned to graphic design by training as a specialized pre-press graphic designer.<br>
-I ike traveling, cooking, skateboarding, …</p>
+I like traveling, cooking, skateboarding, …</p>
 <hr style="margin: 2em 0;">
 <h3 class="code-line" data-line-start=9 data-line-end=10 ><a id="Skills__9"></a>Skills :</h3>
 <ul>
